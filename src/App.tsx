@@ -7,7 +7,7 @@ import Paths from './shared/paths';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/shopping-app-prac">
       <Navbar />
       <Routes>
         <Route path={Paths.home} element={<>Home page coming soon!</>} />
