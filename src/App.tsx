@@ -7,14 +7,15 @@ import Paths from './shared/paths';
 
 function App() {
   return (
-    <Router basename="/shopping-app-prac">
-      <Navbar />
-      <Routes>
-        <Route path={Paths.home} element={<>Home page coming soon!!</>} />
-        <Route path={Paths.products} element={<ProductsPage />} />
-        <Route path={Paths.singleProduct} element={<SingleProduct />} />
-      </Routes>
-    </Router>
+    <>Testing</>
+    // <Router basename="/shopping-app-prac">
+    //   <Navbar />
+    //   <Routes>
+    //     <Route path={Paths.home} element={<>Home page coming soon!!</>} />
+    //     <Route path={Paths.products} element={<ProductsPage />} />
+    //     <Route path={Paths.singleProduct} element={<SingleProduct />} />
+    //   </Routes>
+    // </Router>
   );
 }
 
