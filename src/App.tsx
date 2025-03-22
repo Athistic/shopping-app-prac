@@ -6,6 +6,7 @@ import SingleProduct from './components/organisms/single-product';
 import Paths from './shared/paths';
 
 function App() {
+  let a = 30;
   return (
     <Router>
       <Navbar />
