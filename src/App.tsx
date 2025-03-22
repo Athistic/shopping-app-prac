@@ -10,7 +10,7 @@ function App() {
     <Router basename="/shopping-app-prac">
       <Navbar />
       <Routes>
-        <Route path={Paths.home} element={<>Home page coming soon!</>} />
+        <Route path={Paths.home} element={<>Home page coming soon!!</>} />
         <Route path={Paths.products} element={<ProductsPage />} />
         <Route path={Paths.singleProduct} element={<SingleProduct />} />
       </Routes>
