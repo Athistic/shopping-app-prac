@@ -1,0 +1,22 @@
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: red;
+}
+
+.nav-container {
+  background-image: linear-gradient(to top right, black, navy, black);
+  height: 50px;
+  margin-bottom: 40px;
+}
+
+nav ul {
+  padding: 10px 0px 0px 10px;
+  margin: 0px;
+  display: flex;
+  gap: 20px;
+}
