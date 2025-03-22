@@ -1,13 +1,13 @@
-import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
+// import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import './App.css';
-import Navbar from './components/molecules/nav-bar';
-import ProductsPage from './components/pages/products';
-import SingleProduct from './components/organisms/single-product';
-import Paths from './shared/paths';
+// import Navbar from './components/molecules/nav-bar';
+// import ProductsPage from './components/pages/products';
+// import SingleProduct from './components/organisms/single-product';
+// import Paths from './shared/paths';
 
 function App() {
   return (
-    <>Testing</>
+    <>Testing my APP</>
     // <Router basename="/shopping-app-prac">
     //   <Navbar />
     //   <Routes>
