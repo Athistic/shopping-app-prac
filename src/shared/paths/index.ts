@@ -1,6 +1,7 @@
 const Paths = {
   home: '/',
   products: '/products',
-  singleProduct: '/product/:id',
+  singleProduct: '/products/:id',
+  test: '/test',
 };
 export default Paths;

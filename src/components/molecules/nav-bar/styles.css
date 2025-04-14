@@ -1,10 +1,10 @@
-nav a {
+.nav-container a {
   text-decoration: none;
   color: white;
   font-weight: bold;
 }
 
-nav a:hover {
+.nav-container a:hover {
   color: red;
 }
 

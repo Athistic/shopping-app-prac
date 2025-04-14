@@ -8,6 +8,7 @@ const Navbar = () => {
       <ul>
         <NavLink to={Paths.home}>Home</NavLink>
         <NavLink to={Paths.products}>Shop</NavLink>
+        <NavLink to={Paths.test}>Test</NavLink>
       </ul>
     </nav>
   );
